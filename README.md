@@ -1,7 +1,7 @@
 # test-startmedia
 Задания выполнены в двух вариантах на чистом php и php-js
 
-### PHP
+### PHP (основное)
 в фале php
 
 * запускаем composer install
