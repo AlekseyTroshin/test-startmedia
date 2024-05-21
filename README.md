@@ -13,4 +13,4 @@
 * заходим в servers
 * запускаем composer install
 * php -S localhost:8000 'public/index.php'
-* в папке clien открываем index.html
+* в папке client открываем index.html
